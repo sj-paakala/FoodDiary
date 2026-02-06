@@ -3,10 +3,10 @@ Food Diary is a demo app for iOS, built with SwiftUI + SwiftData for tracking da
 
 ## Screenshots
 <p float="left">
-  <a href="Screenshots/full/today.png"><img src="Screenshots/thumbs/today.png" width="200" /></a>
-  <a href="Screenshots/full/add-meal.png"><img src="Screenshots/thumbs/add-meal.png" width="200" /></a>
-  <a href="Screenshots/full/favorites.png"><img src="Screenshots/thumbs/favorites.png" width="200" /></a>
-  <a href="Screenshots/full/settings.png"><img src="Screenshots/thumbs/settings.png" width="200" /></a>
+  <a href="Screenshots/today.png"><img src="Screenshots/today.png" width="200" /></a>
+  <a href="Screenshots/add-meal.png"><img src="Screenshots/add-meal.png" width="200" /></a>
+  <a href="Screenshots/favorites.png"><img src="Screenshots/favorites.png" width="200" /></a>
+  <a href="Screenshots/settings.png"><img src="Screenshots/settings.png" width="200" /></a>
 </p>
 
 ## Features
