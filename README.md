@@ -22,7 +22,7 @@ Food Diary is a demo app for iOS, built with SwiftUI + SwiftData for tracking da
  + Additional test coverage
 
 ## Notes
-This project was built for my personal portfolio
+This project was built for my personal portfolio.
 
 It aims to showcase:
  + The ability to take a project from an idea to a finished, working demo
@@ -31,11 +31,11 @@ It aims to showcase:
  + Use of modern Apple frameworks
 
 ## Folder structure
-App - Application entry point
-Features - Feature-oriented SwiftUI views and logic
-Models - SwiftData models
-Resources - Launch screen and app icon files
-Shared - Shared views and reusable components
-Utilites - Formatting and parsing helpers
++ App - Application entry point
++ Features - Feature-oriented SwiftUI views and logic
++ Models - SwiftData models
++ Resources - Launch screen and app icon files
++ Shared - Shared views and reusable components
++ Utilites - Formatting and parsing helpers
 
 Unit and UI tests are included, with limited coverage.
