@@ -23,8 +23,8 @@ struct EntryFormView: View {
 
     private var title: String {
         switch mode {
-        case .add: "Add Entry"
-        case .edit: "Edit Entry"
+        case .add: "Add meal"
+        case .edit: "Edit meal"
         }
     }
 

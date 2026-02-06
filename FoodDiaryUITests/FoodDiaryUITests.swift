@@ -19,9 +19,9 @@ final class FoodDiaryUITests: XCTestCase {
     func testOpenAddEntrySheet() throws {
         let app = XCUIApplication()
         app.launch()
-        app.buttons["Add entry"].tap()
+        app.buttons["Add meal"].tap()
 
-        XCTAssertTrue(app.navigationBars["Add Entry"].exists)
+        XCTAssertTrue(app.navigationBars["Add meal"].exists)
     }
 
     @MainActor
