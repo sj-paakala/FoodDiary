@@ -1,10 +1,3 @@
-//
-//  FoodDiaryUITestsLaunchTests.swift
-//  FoodDiaryUITests
-//
-//  Created by Santeri Paakala on 4.2.2026.
-//
-
 import XCTest
 
 final class FoodDiaryUITestsLaunchTests: XCTestCase {
