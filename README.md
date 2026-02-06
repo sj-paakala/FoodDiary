@@ -46,10 +46,6 @@ Unit and UI tests are included, with limited coverage.
 + Select iOS simulator or physical iPhone (iOS 17 or newer)
 + Build and run the app
 
-## Screenshots
+## Demo
 
-<p>
-  <a href="Screenshots/today.png"><img src="Screenshots/today.png" width="220" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="Screenshots/favorites.png"><img src="Screenshots/favorites.png" width="220" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="Screenshots/settings.png"><img src="Screenshots/settings.png" width="220" /></a>
-</p>
+https://github.com/sj-paakala/FoodDiary/Screenshots/d-mode-preview.mp4
