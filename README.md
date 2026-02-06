@@ -1,8 +1,15 @@
 # FoodDiary
 Food Diary is a demo app for iOS, built with SwiftUI + SwiftData for tracking daily food intake and nutritional values.
 
-## Features
+## Screenshots
+<p float="left">
+  <a href="Screenshots/full/today.png"><img src="Screenshots/thumbs/today.png" width="200" /></a>
+  <a href="Screenshots/full/add-meal.png"><img src="Screenshots/thumbs/add-meal.png" width="200" /></a>
+  <a href="Screenshots/full/favorites.png"><img src="Screenshots/thumbs/favorites.png" width="200" /></a>
+  <a href="Screenshots/full/settings.png"><img src="Screenshots/thumbs/settings.png" width="200" /></a>
+</p>
 
+## Features
 ### Today
 ![Today view](Screenshots/today.png)
  + Summary of daily calorie and macronutrient intake
