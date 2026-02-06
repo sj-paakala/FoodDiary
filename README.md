@@ -1,5 +1,6 @@
 # Food Diary
-Food Diary is a demo iOS app built and tested with Xcode 26 for iOS 26 using SwiftUI and SwiftData. The app is designed to track daily food intake and nutritional values.  
+Food Diary is a demo iOS app built and tested with Xcode 26 for iOS 26 using SwiftUI and SwiftData. The app is designed to track daily food intake and nutritional values. 
+
 The project focuses on solid engineering principles and taking an idea from concept to a working demo rather than visual polish.
 
 <!-- Demo video -->
@@ -39,7 +40,7 @@ It aims to showcase:
  + Use of modern Apple frameworks
 
 ## Folder structure
-Inside the App folder:
+Inside App/FoodDiary folder:
 + App - Application entry point
 + Features - Feature-oriented SwiftUI views and logic
 + Models - SwiftData models
