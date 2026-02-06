@@ -6,9 +6,7 @@ The project focuses on solid engineering principles and taking an idea from conc
 <!-- Demo video -->
 
 <p>
-  <a href="https://github.com/sj-paakala/FoodDiary/raw/main/Preview/video/d-mode-preview.mp4">
     <img src="Preview/gif/d-mode-preview.gif" width="300" alt="App demo" />
-  </a>
 </p>
 
 ## Features
