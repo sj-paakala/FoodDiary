@@ -55,3 +55,13 @@ Unit and UI tests are included, with limited coverage.
 + Open the FoodDiary Xcode project inside App folder
 + Select iOS simulator or physical iPhone (iOS 26 recommended)
 + Build and run in Xcode
+
+## Use of AI Tools
+
+AI tools were used during development as a support for:
++ Reasoning about SwiftUI and SwiftData architecture
++ Debugging compiler errors and edge cases
++ Refactoring and improving code clarity
+
+All code was reviewed, understood, and adapted manually.  
+Final design decisions, implementation, and testing were done by me.
