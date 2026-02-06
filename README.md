@@ -4,13 +4,16 @@ Food Diary is a demo app for iOS, built with SwiftUI + SwiftData for tracking da
 ## Features
 
 ### Today
+![Today view](Screenshots/today.png)
  + Summary of daily calorie and macronutrient intake
  + Comparison to daily personal targets
  + Easy addition of meals throughout the day 
 ### Favorites
+![Favorites](Screenshots/favorites.png)
  + Favorite foods are easy to list here
  + Favorites can be quickly added to daily meals  
 ### Settings
+![Settings](Screenshots/settings.png)
  + Allows setting personal daily targets for calories and macronutrients
  + Dark/Light app theme
 
